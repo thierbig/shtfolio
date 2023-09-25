@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+main.env
+logs/
+.vs/
+.yarn/
+.pnp.cjs
+.pnp.loader.mjs
+.yarnrc.yml
+yarn.lock
