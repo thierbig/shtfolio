@@ -31,7 +31,7 @@ Shtfolio is a comprehensive web application designed to track all the trending s
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/shtfolio.git
+   git clone https://github.com/thierbig/shtfolio.git
    ```
 2. Navigate to the app directory.
    ```bash
